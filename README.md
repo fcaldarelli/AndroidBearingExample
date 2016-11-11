@@ -83,3 +83,7 @@ The callback
     public void onBearingSensorAngleChanged(int azimuth);
     
 contains *azimuth* parameter that indicates current angle from north pole in degrees.
+
+## Example app output
+![device-2016-11-11-225725](https://cloud.githubusercontent.com/assets/4108673/20231462/6120e87a-a862-11e6-8648-3780db611f83.png)
+

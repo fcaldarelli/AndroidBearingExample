@@ -1,5 +1,5 @@
 # Android Bearing Example
-Full example to calculate bearing in Android
+Full example to calculate bearing in Android, useful in augmented reality apps.
 
 I wrote this example to thank you to all users that have posted in interner some kind of solution to solve bearing calculation.
 
